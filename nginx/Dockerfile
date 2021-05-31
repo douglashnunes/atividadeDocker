@@ -1,5 +1,5 @@
 FROM centos
-LABEL maintainer="Gustavo Gianini <gustavoogian@mail.com>" 
+LABEL maintainer="Douglas Nunes <dglhenrique@gmail.com>" 
 
 RUN yum -y install epel-release
 RUN yum -y update
